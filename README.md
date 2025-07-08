@@ -14,3 +14,5 @@ A Python implementation of quantum computing fundamentals with PyQt visualizatio
 ## Requirements
 ```bash
 pip install numpy matplotlib pyqt5
+
+python -m gui.main_window
